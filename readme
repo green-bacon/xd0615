@@ -1,7 +1,7 @@
-回声“＃xd0615” >> README.md 
-git init 
-git add README.md 
-git commit -m“第一次提交” 
-git remote add origin git@github.com：green-bacon / xd0615.git
- git push -u origin master
-                
+这里记载着黄子文-19030500197的笔记
+安装git
+安装github客户端
+创建仓库
+设定ssh-keygen
+熟悉git基本操作
+学会使用搜索引擎
